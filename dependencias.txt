@@ -1,0 +1,5 @@
+requests
+dotenv
+rich
+selenium
+webdriver_manager
