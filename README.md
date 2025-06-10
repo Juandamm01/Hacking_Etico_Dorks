@@ -1,4 +1,4 @@
-# 🥷 Hacking Ético - Automatización de Dorks y Descargas Inteligentes
+# Hacking Ético - Automatización de Dorks y Descargas Inteligentes
 
 Este repositorio contiene un conjunto de scripts diseñados con fines **educativos** para automatizar tareas comunes en procesos de *reconocimiento pasivo* y análisis de información usando dorks de Google, búsquedas inteligentes en archivos locales, filtrado de resultados y descarga de documentos relevantes.
 
